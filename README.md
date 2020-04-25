@@ -1,7 +1,8 @@
 # Tournament-Management-System
 Tournament Management System helps you in maintaining a database for the teams participating in a tournament. It has various features that help in multiple tasks related to a tournament. It manages data with the help of file handling.
 
-It has the following functionalities: 
+## It has the following functionalities:
+
 1.Display the details of a given team number.
 1.Display the details of teams of a given sponsor.
 1.Display the details of teams in a given winning price range.
